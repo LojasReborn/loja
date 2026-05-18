@@ -1,4 +1,4 @@
-# 🛍️ DevTech - Sistema da loja DuBairrão
+# 🛍️ DevTech
 
 ## 📌 Sobre o Projeto
 
