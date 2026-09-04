@@ -109,4 +109,4 @@ Projeto desenvolvido pela organização **DevTech**.
 
 # 📄 Licença
 
-Esse projeto utiliza a liensa MIT.
+Esse projeto utiliza a licença MIT.
